@@ -1,0 +1,32 @@
+Application,Install,Description
+git,apt,Version control
+hunspell-de-de-frami,apt,Spell check
+Google Chrome,https://www.google.com/intl/de_de/chrome/,Browser
+openjdk-8-jre,apt,Java
+Arduino IDE,Discover,
+KiCad,Discover,PCB design
+VS Code,https://code.visualstudio.com/,Text editor / IDE
+SmartGit,https://www.syntevo.com/smartgit/download/,Git GUI
+GeoGebra,Discover,Geometry
+MultiMC,https://multimc.org/#Download,Minecraft
+Steam,https://store.steampowered.com/about/,Games
+FreeCAD,Discover,3D CAD
+GIMP,Discover,Image editing
+Inkscape,Discover,Vector graphic editing
+PrusaSlicer,https://github.com/prusa3d/PrusaSlicer/releases,3D printing slicer
+logid,https://github.com/PixlOne/logiops,Logitech MX Master driver
+Docker,curl -fsSL https://get.docker.com -o get-docker.sh,Container virtualization
+Docker Compose,pip3 install docker-compose,Docker tool
+npm,apt,Node.js
+Qalculate,Discover,Calculator
+AppImageLauncher,https://github.com/TheAssassin/AppImageLauncher/releases,Install .appimage programs
+VirtualBox,https://www.virtualbox.org/wiki/Linux_Downloads,Virtual machines
+Etcher,https://www.balena.io/etcher/,Write images to USB/SD
+KeePassXC,Discover,Password manager
+Nextcloud,https://nextcloud.com/install/#install-clients,Cloud synchronization
+JetBrains Toolbox,https://www.jetbrains.com/de-de/toolbox-app/,"JetBrains IDEs (IntelliJ, PyCharm)"
+Spotify,https://www.spotify.com/de/download/linux/,Music streaming
+Typora,Discover,Markdown editor
+Joplin,Discover,Markdown notebook
+FileZilla,Discover,FTP
+OBS Studio,Discover,Screen recording

@@ -10,7 +10,7 @@ ThetaDev / ThetaDev Dark color theme
 
 ![](assets/colors.png)
 
-Copy the theme files into `~/.kde/share/apps/color-schemes/`
+Use the Install from File option to install them.
 
 ### Cursors
 
@@ -63,14 +63,30 @@ Blur off, Maximize off, Translucency off
 
 **Startup and Shutdown/Login Screen:** Background: `pcb.jpg`, Advanced > Settings synchronization
 
-**Startup and Shutdown/Desktop session:** Applications to be excluded from sessions: `plasma-discover`
+**Startup and Shutdown/Desktop session:** Confirm logout OFF, Applications to be excluded from sessions: `plasma-discover`
 
 **Other notifications:** Application crashes OFF
 
-**Regional settings/Spell Check:** Deutsch (Deutschland), `apt install hunspell-de`
+**Regional settings/Spell Check:** Deutsch (Deutschland), `apt install hunspell-de-de-frami`
 
 **Input devices/Touchpad:** Tap-to-click, Invert scroll direction
 
 **Input devices/Display and Monitor/Compositor:** Keep window thumbnails: Always
 
 **Hardware/Audio:** Notification sounds OFF
+
+### Task manager settings
+
+**Appearance:** Mark applications that play audio OFF, Maximum columns: 1
+
+**Behavior:** Group only when Task Manage full OFF, Keep launchers separate OFF
+
+### Dolphin settings
+
+**Confirmations:** Moving files or folders to trash, Closing windows with multiple tabs OFF
+
+**Navigation:** Open archives as folder
+
+**Toolbar:**
+
+![](assets/dolphin.png)
