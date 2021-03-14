@@ -28,5 +28,49 @@ Get disk partition UUID: `blkid`
 UUID=xxxxxxxxxxxxxxxx /media/Daten ntfs uid=1000,gid=1000,rw,user,exec,umask=0077 0 0
 ```
 
-### KDE Settings
+### System Settings
 
+**Global Theme:** Breeze Dark
+
+**Plasma Style:** Breeze AlphaBlack (download)
+
+**AlphaBlack settings:**
+Panel, Widget, Titlebars, Frames: #004275
+Text color: #ffffff
+Highlight color: #0078d7
+Opacity: 90%
+
+**Colors:** ThetaDev / ThetaDev Dark
+
+**Fonts/Fixed width:** JetBrains Mono NL 10pt
+
+**Cursors:** Win10Theta
+
+**Workspace/General behavior:** Animation speed: 6/9
+
+**Workspace/Desktop effects:**
+Blur off, Maximize off, Translucency off
+
+**Workspace/Screen edges:** Off
+
+**Workspace/Screen locking/Appearance:** `pcb.jpg`
+
+**Window management/Task switcher:** Thumbnail Grid, Show selected window OFF
+
+**Window management/KWin Scripts:** Sticky Windows Snapping (download)
+
+**Window management/Window rules:** `Config/chrome_miniplayer.kwinrule`
+
+**Startup and Shutdown/Login Screen:** Background: `pcb.jpg`, Advanced > Settings synchronization
+
+**Startup and Shutdown/Desktop session:** Applications to be excluded from sessions: `plasma-discover`
+
+**Other notifications:** Application crashes OFF
+
+**Regional settings/Spell Check:** Deutsch (Deutschland), `apt install hunspell-de`
+
+**Input devices/Touchpad:** Tap-to-click, Invert scroll direction
+
+**Input devices/Display and Monitor/Compositor:** Keep window thumbnails: Always
+
+**Hardware/Audio:** Notification sounds OFF

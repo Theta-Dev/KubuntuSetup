@@ -1,0 +1,16 @@
+[Chrome Miniplayer]
+Description=Chrome Miniplayer
+above=true
+aboverule=2
+clientmachine=localhost
+clientmachinematch=0
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=Picture in picture
+titlematch=1
+types=1
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
