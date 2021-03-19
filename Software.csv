@@ -12,7 +12,7 @@ MultiMC,https://multimc.org/#Download,Minecraft
 Steam,https://store.steampowered.com/about/,Games
 FreeCAD,Discover,3D CAD
 GIMP,Discover,Image editing
-Inkscape,Discover,Vector graphic editing
+Inkscape,https://inkscape.org/release/,Vector graphic editing
 PrusaSlicer,https://github.com/prusa3d/PrusaSlicer/releases,3D printing slicer
 logid,https://github.com/PixlOne/logiops,Logitech MX Master driver
 Docker,curl -fsSL https://get.docker.com -o get-docker.sh,Container virtualization
